@@ -1,0 +1,11 @@
+npm install -g vue-cli
+
+vue init webpack my-project
+
+cd my-project
+
+npm install
+
+npm run dev
+////此项目 1: json-server里面启动 服务器  cnpm run json:server
+                 2:pizza 里面  cnpm run dev

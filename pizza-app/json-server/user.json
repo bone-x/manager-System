@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "陈辉",
+      "phone": "12178883409",
+      "email": "test@123.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1,
+      "companyId": 1
+    },
+    {
+      "name": "bone",
+      "phone": "12178883409",
+      "email": "test@12345.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 3,
+      "companyId": 3
+    },
+    {
+      "email": "1@qq.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 4
+    },
+    {
+      "email": "chen@123.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 5
+    }
+  ],
+  "Goods": [
+    {
+      "name": "龙魂",
+      "description": "上帝之子",
+      "options": [
+        {
+          "size": "12",
+          "price": "123"
+        },
+        {
+          "size": "22",
+          "price": "34"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "龙涎香",
+      "description": "法国香水",
+      "options": [
+        {
+          "size": "1",
+          "price": "123"
+        },
+        {
+          "size": "2",
+          "price": "34"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
